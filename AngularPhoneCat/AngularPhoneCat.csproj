@@ -244,6 +244,7 @@
     <Content Include="app\img\phones\t-mobile-mytouch-4g.4.jpg" />
     <Content Include="app\img\phones\t-mobile-mytouch-4g.5.jpg" />
     <Content Include="app\index.html" />
+    <TypeScriptCompile Include="app\main.ts" />
     <TypeScriptCompile Include="app\phone-detail\phone-detail.component.ts" />
     <Content Include="app\phone-detail\phone-detail.component.spec.js" />
     <TypeScriptCompile Include="app\phone-detail\phone-detail.module.ts" />
